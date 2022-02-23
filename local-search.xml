@@ -4,13 +4,19 @@
   
   
   <entry>
-    <title>exp</title>
-    <link href="/2022/02/23/exp/"/>
-    <url>/2022/02/23/exp/</url>
+    <title>Hexo 博客使用问题记录</title>
+    <link href="/2022/02/23/Hexo%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/"/>
+    <url>/2022/02/23/Hexo%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="问题1：Hexo-同步到-github-后无法被访问"><a href="#问题1：Hexo-同步到-github-后无法被访问" class="headerlink" title="问题1：Hexo 同步到 github 后无法被访问"></a>问题1：Hexo 同步到 github 后无法被访问</h2><p>一般我们使用的命令是，但不起作用</p><div class="code-wrapper"><pre><code class="hljs">hexo ghexo d</code></pre></div><p>切换到如下命令即可成功</p><div class="code-wrapper"><pre><code class="hljs">hexo deploy -g</code></pre></div>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
     
   </entry>
   
